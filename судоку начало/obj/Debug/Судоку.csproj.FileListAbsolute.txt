@@ -1,0 +1,12 @@
+C:\Users\Екатерина\source\repos\КУРСОВАЯ ПРОГИ 4 СЕМ\судоку начало\судоку начало\bin\Debug\судоку начало.exe.config
+C:\Users\Екатерина\source\repos\КУРСОВАЯ ПРОГИ 4 СЕМ\судоку начало\судоку начало\bin\Debug\судоку начало.exe
+C:\Users\Екатерина\source\repos\КУРСОВАЯ ПРОГИ 4 СЕМ\судоку начало\судоку начало\bin\Debug\судоку начало.pdb
+C:\Users\Екатерина\source\repos\КУРСОВАЯ ПРОГИ 4 СЕМ\судоку начало\судоку начало\obj\Debug\Судоку.csprojAssemblyReference.cache
+C:\Users\Екатерина\source\repos\КУРСОВАЯ ПРОГИ 4 СЕМ\судоку начало\судоку начало\obj\Debug\Судоку.Form1.resources
+C:\Users\Екатерина\source\repos\КУРСОВАЯ ПРОГИ 4 СЕМ\судоку начало\судоку начало\obj\Debug\Судоку.frmInput.resources
+C:\Users\Екатерина\source\repos\КУРСОВАЯ ПРОГИ 4 СЕМ\судоку начало\судоку начало\obj\Debug\Судоку.FormRool.resources
+C:\Users\Екатерина\source\repos\КУРСОВАЯ ПРОГИ 4 СЕМ\судоку начало\судоку начало\obj\Debug\судоку_начало.Properties.Resources.resources
+C:\Users\Екатерина\source\repos\КУРСОВАЯ ПРОГИ 4 СЕМ\судоку начало\судоку начало\obj\Debug\Судоку.csproj.GenerateResource.cache
+C:\Users\Екатерина\source\repos\КУРСОВАЯ ПРОГИ 4 СЕМ\судоку начало\судоку начало\obj\Debug\Судоку.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\source\repos\КУРСОВАЯ ПРОГИ 4 СЕМ\судоку начало\судоку начало\obj\Debug\судоку начало.exe
+C:\Users\Екатерина\source\repos\КУРСОВАЯ ПРОГИ 4 СЕМ\судоку начало\судоку начало\obj\Debug\судоку начало.pdb
